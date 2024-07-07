@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Krish",
+        "last": "Singh"
+      },
+      "location": {
+        "street": {
+          "number": 5026,
+          "name": "Dwaraka Nagar"
+        },
+        "city": "Nellore",
+        "state": "Delhi",
+        "country": "India",
+        "postcode": 96560,
+        "coordinates": {
+          "latitude": "4.3439",
+          "longitude": "-78.7656"
+        },
+        "timezone": {
+          "offset": "-6:00",
+          "description": "Central Time (US & Canada), Mexico City"
+        }
+      },
+      "email": "krish.singh@example.com",
+      "login": {
+        "uuid": "8e384a4f-725b-4e5b-8a8f-3588d338ac63",
+        "username": "orangewolf303",
+        "password": "oooo",
+        "salt": "BivQ4uRF",
+        "md5": "584c7cc28126a29acc5fae9cc3c98750",
+        "sha1": "3567aac408b9e279602b2c4a366d456e47e8a90d",
+        "sha256": "8060d42c68ccea287aabf4209c4b1a42f1e15cf9fc72a60ddf1bed1ea6d94f88"
+      },
+      "dob": {
+        "date": "1963-12-20T21:53:34.902Z",
+        "age": 60
+      },
+      "registered": {
+        "date": "2012-05-31T10:39:40.118Z",
+        "age": 12
+      },
+      "phone": "9125684290",
+      "cell": "7129928527",
+      "id": {
+        "name": "UIDAI",
+        "value": "522648292204"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/55.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/55.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/55.jpg"
+      },
+      "nat": "IN"
+    }
+  ],
+  "info": {
+    "seed": "921c75cc3fd7df51",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}

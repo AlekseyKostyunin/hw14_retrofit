@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hw14_retrofit</string>
+    <string name="foto_user">Фото пользователя</string>
+    <string name="update">Обновить</string>
+</resources>
